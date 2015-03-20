@@ -1,0 +1,18 @@
+#OSX
+.DS_Store
+
+#Universal
+*.tgz
+*.tar.gz
+*.zip
+
+# Project Specific Ignores
+pi
+pi-sched
+rw
+rr_quantum
+rwinput
+*.o
+*~
+*.log
+*.aux
